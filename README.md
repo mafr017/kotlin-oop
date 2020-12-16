@@ -4,3 +4,4 @@
 3. Membuat Properties
 4. Membuat Constructors
 5. Membuat Initializer Block
+6. Membuat Secondary Constructor
