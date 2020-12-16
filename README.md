@@ -3,3 +3,4 @@
 2. Membuat Object
 3. Membuat Properties
 4. Membuat Constructors
+5. Membuat Initializer Block
