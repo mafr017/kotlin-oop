@@ -9,3 +9,4 @@
 7. Properties di Constructior
 8. Membuat Function di Class
 9. Membuat Function Overloading
+10. Membuat This Keywoard
