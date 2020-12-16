@@ -6,3 +6,4 @@
 5. Membuat Initializer Block
 6. Membuat Secondary Constructor
     - tanpa primary construtor
+7. Properties di Constructior
