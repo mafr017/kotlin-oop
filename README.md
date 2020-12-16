@@ -7,3 +7,4 @@
 6. Membuat Secondary Constructor
     - tanpa primary construtor
 7. Properties di Constructior
+8. Membuat Function di Class
