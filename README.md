@@ -13,3 +13,4 @@
 11. Membuat Inheritance
 12. Membuat Function Overriding
    - Final Overriding
+13. Membuat Properties Overriding
