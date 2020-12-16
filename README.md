@@ -10,3 +10,4 @@
 8. Membuat Function di Class
 9. Membuat Function Overloading
 10. Membuat This Keywoard
+11. Membuat Inheritance
