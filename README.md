@@ -9,8 +9,9 @@
 7. Properties di Constructior
 8. Membuat Function di Class
 9. Membuat Function Overloading
-10. Membuat This Keywoard
+10. Membuat This Keyword
 11. Membuat Inheritance
 12. Membuat Function Overriding
    - Final Overriding
 13. Membuat Properties Overriding
+13. Membuat Super Keyword
