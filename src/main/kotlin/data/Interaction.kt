@@ -27,6 +27,8 @@ class Human(override val name: String): Go, MoveA, MoveB {
 //    }
 
     override fun move() {
+        super<MoveA>.move()
+        super<MoveB>.move()
         println("Move Human")
     }
 }

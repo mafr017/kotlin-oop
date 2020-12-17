@@ -29,6 +29,5 @@ fun main() {
      */
 
     human.go()
-    
     human.move()
 }
