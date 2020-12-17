@@ -12,6 +12,8 @@
 10. Membuat This Keyword
 11. Membuat Inheritance
 12. Membuat Function Overriding
-   - Final Overriding
+    - Final Overriding
 13. Membuat Properties Overriding
-13. Membuat Super Keyword
+14. Membuat Super Keyword (Properties & Function)
+15. Membuat Super Constructor
+
