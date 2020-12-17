@@ -16,4 +16,5 @@
 13. Membuat Properties Overriding
 14. Membuat Super Keyword (Properties & Function)
 15. Membuat Super Constructor
+16. Membuat Any Class
 
