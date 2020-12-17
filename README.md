@@ -17,4 +17,9 @@
 14. Membuat Super Keyword (Properties & Function)
 15. Membuat Super Constructor
 16. Membuat Any Class
+17. Membuat Type Check & Casts
+    - is dan !is Operator
+    - Casts di When Expression
+    - Unsafe Cast
+    - Safe Nullable Cast
 
