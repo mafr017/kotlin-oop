@@ -24,3 +24,4 @@
     - Safe Nullable Cast
 18. Membuat toString Function
 19. Membuat Equals Function
+20. Membuat HashCode Function
