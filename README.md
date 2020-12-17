@@ -25,3 +25,4 @@
 18. Membuat toString Function
 19. Membuat Equals Function
 20. Membuat HashCode Function
+21. Membuat Abstract Class
