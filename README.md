@@ -27,3 +27,4 @@
 20. Membuat HashCode Function
 21. Membuat Abstract Class
 22. Membuat Abstract Properties & Function
+23. Membuat Getter & Setter
