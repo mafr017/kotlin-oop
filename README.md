@@ -28,4 +28,10 @@
 21. Membuat Abstract Class
 22. Membuat Abstract Properties & Function
 23. Membuat Getter & Setter
-24. Membuat Late Initialized Properties]
+24. Membuat Late Initialized Properties
+25. Membuat Interface
+    - Concrete Function di Interface
+    - Multiple Inheritance dengan Interface
+    - Inheritance antar Interface
+    - Konflik di Interface
+        - memperbaiki konflik di interface
