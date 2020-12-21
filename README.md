@@ -35,3 +35,4 @@
     - Inheritance antar Interface
     - Konflik di Interface
         - memperbaiki konflik di interface
+26. Membuat Visibility Modifiers
