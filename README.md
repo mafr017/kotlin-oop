@@ -41,3 +41,4 @@
 28. Membuat Extension Properties
 29. Membuat Data Class
     - Copy Data Class
+30. Membuat Sealed Class
