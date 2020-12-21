@@ -39,3 +39,5 @@
 27. Membuat Extension Function
     - Nullable Extension Function
 28. Membuat Extension Properties
+29. Membuat Data Class
+    - Copy Data Class
