@@ -42,3 +42,4 @@
 29. Membuat Data Class
     - Copy Data Class
 30. Membuat Sealed Class
+31. Membuat Inner Class
