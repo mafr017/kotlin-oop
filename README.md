@@ -50,3 +50,4 @@
     - inner object
 35. Membuat Companion Object
 36. Membuat Type Alias
+37. Membuat Inline Class
