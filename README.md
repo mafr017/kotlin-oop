@@ -44,3 +44,5 @@
 30. Membuat Sealed Class
 31. Membuat Inner Class
 32. Membuat Anonymous Class
+33. Membuat Enum Class
+    - properties & function di enum class 
