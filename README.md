@@ -48,3 +48,4 @@
     - properties & function di enum class 
 34. Membuat Singleton Object
     - inner object
+35. Membuat Companion Object
