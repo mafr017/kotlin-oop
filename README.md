@@ -49,3 +49,4 @@
 34. Membuat Singleton Object
     - inner object
 35. Membuat Companion Object
+36. Membuat Type Alias
