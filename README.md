@@ -51,3 +51,4 @@
 35. Membuat Companion Object
 36. Membuat Type Alias
 37. Membuat Inline Class
+38. Membuat Delegation
