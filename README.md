@@ -52,3 +52,4 @@
 36. Membuat Type Alias
 37. Membuat Inline Class
 38. Membuat Delegation
+39. Membuat Lazy Properties
