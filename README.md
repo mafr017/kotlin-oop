@@ -53,3 +53,4 @@
 37. Membuat Inline Class
 38. Membuat Delegation
 39. Membuat Lazy Properties
+40. Membuat Observable Properties
