@@ -54,3 +54,7 @@
 38. Membuat Delegation
 39. Membuat Lazy Properties
 40. Membuat Observable Properties
+41. Membuat Desctructuring Declarations
+    - Desctructuring di Function
+    - Underscore " _ " untuk Variable Tidak Digunakan
+    - Desctructuring Lambda Parameter
