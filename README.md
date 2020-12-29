@@ -59,3 +59,6 @@
     - Underscore " _ " untuk Variable Tidak Digunakan
     - Desctructuring Lambda Parameter
 42. Membuat Operator Overloading
+43. Membuat Null Safety
+    - Menggunakan checking if
+    - Menggunakan Elvis Operator
