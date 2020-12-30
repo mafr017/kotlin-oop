@@ -62,3 +62,6 @@
 43. Membuat Null Safety
     - Menggunakan checking if
     - Menggunakan Elvis Operator
+44. Membuat Exception
+    - Try Catch
+    - Multiple Catch
