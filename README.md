@@ -65,3 +65,4 @@
 44. Membuat Exception
     - Try Catch
     - Multiple Catch
+45. Membuat Annotation
