@@ -66,3 +66,4 @@
     - Try Catch
     - Multiple Catch
 45. Membuat Annotation
+46. Membuat Annotation Target
