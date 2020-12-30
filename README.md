@@ -68,3 +68,4 @@
 45. Membuat Annotation
 46. Membuat Annotation Target
 47. Membuat Reflection 
+48. Membuat Scope Function
