@@ -1,4 +1,4 @@
-# Belajar Dasar Kotlin (Fundamental)
+# Belajar Kotlin OOP
 1. Membuat Package Class
 2. Membuat Object
 3. Membuat Properties
